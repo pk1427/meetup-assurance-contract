@@ -6,7 +6,7 @@
 
 | Network | Contract | Address |
 |---------|----------|---------|
-| Sepolia (11155111) | AssuranceCampaign | `0xE7C539Fa90b3abf68e5f47276A7Ce8c7edcc781f` |
+| Sepolia (11155111) | AssuranceCampaign | `0x4F4eD57ED746E2Fd0583044259CB283d088786c3` |
 
 ## Setup
 
